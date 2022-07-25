@@ -1,5 +1,8 @@
 # react-coingecko-api
 
+This project is a simple page application that shows and connect with the CoinGecko API to get all coins values
+
+
 ![coingecko](https://user-images.githubusercontent.com/67404147/180698080-3f257d50-8a0f-48f4-8b8f-adb5546cc7d0.png)
 
 
@@ -15,8 +18,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-This project is a simple page application that shows and connect with the CoinGecko API to get all coins values
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
