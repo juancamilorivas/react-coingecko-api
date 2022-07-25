@@ -21,7 +21,6 @@ export default function appReducer(state, { type, payload }) {
         }
         return task;
       });
-
       return {
         tasks: updatedTasks,
       };
